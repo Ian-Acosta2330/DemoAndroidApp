@@ -24,16 +24,14 @@ Here's a walkthrough of implemented features:
 
 <img src='showcase.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges included were trying to include some more customizable
+splash screens, and it really depended on what versions the app is using, which 
+complicated things. It was really mostly just trying to match up the current supported
+resources with their corresponding versions in order for the app to not crash every so often.
 
 ## License
 
