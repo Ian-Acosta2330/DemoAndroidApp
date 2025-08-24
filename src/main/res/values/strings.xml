@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="caption_under"> The Best Album Ever. &#xA; At least in my opinion, if you like something else that is cool too!</string>
+    <string name="pic_desc">Best album</string>
+    <string name="button">Say Hi</string>
+    <string name="title_activity_home">Home</string>
+</resources>
